@@ -9,7 +9,7 @@ I'm a passionate self-learner that has been on journey to become a software Deve
 * 🌍  I'm based in Addis Ababa
 * ✉️  You can contact me at [bamlakgezahegn26@gmail.com](mailto:bamlakgezahegn26@gmail.com)
 * 🚀  I'm currently working on [E-commerce Web App](http://https://github.com/bamlak21/Webstack---Portfolio-Project)
-* 🧠  I'm learning Java, node.js
+* 🧠  I'm learning C++, node.js
 * 🤝  I'm open to collaborating on Any front-end project
 * ⚡  I love Anime
 
