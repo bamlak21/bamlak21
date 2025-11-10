@@ -6,11 +6,10 @@ Full-Stack Developer
 
 I'm a passionate self-learner that has been on journey to become a software Developer.
 
-* 🌍  I'm based in I'm based in Addis Ababa
-* 🖥️  See my portfolio at [My Portfolio](http://bamlakgezahegn.netlify.app/)
+* 🌍  I'm based in Addis Ababa
+* 🖥️  See my portfolio at [My Portfolio](http://bamlak.dev)
 * ✉️  You can contact me at [bamlakgezahegn26@gmail.com](mailto:bamlakgezahegn26@gmail.com)
-* 🚀  I'm currently working on [E-commerce App](http://ojceestore.netlify.app)
-* 🧠  I'm learning Node.js, C++
+* 🚀  I'm currently working on a game engine
 * 🤝  I'm open to collaborating on Any project
 
 ### Skills
