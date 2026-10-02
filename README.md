@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Addis Ababa<br>✉️  You can contact me at [bamlakgezahegn26@gmail.com](mailto:bamlakgezahegn26@gmail.com)<br>🚀  I'm currently working on a game engine<br>🤝  I'm open to collaborating on Any project
+A Passionate Software Engineer that enjoys building things.<br><br>🌍  I'm based in Addis Ababa<br>✉️  You can contact me at [bamlakgezahegn26@gmail.com](mailto:bamlakgezahegn26@gmail.com)<br>🚀  I'm currently working on a game engine<br>🤝  I'm open to collaborating on Any project
 
 
 ## 🌐 Socials:
@@ -12,10 +12,10 @@
 ![](https://streak-stats.demolab.com/?user=bamlak21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bamlak21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bamlak21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bamlak21&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=bamlak21&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
